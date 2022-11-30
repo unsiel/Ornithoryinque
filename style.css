@@ -1,0 +1,25 @@
+
+/* ----- HEADER ------ */
+
+.BackgroundYellow {
+    background-color: #FFBF00 ;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.burger_menu_align {
+    text-align: end;
+}
+
+/* ------ FOOTER -----  */
+
+.text_center {
+    text-align: center;
+}
+
+.Logo_footer {
+    align-items: center;
+}
+

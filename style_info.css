@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Comfortaa_bold";
+    src: url("../Font/Comfortaa-Bold.ttf") format("ttf");
+}
+@font-face {
+    font-family: "Comfortaa_Light";
+    src: url("../Font/Comfortaa-Light.ttf") format("ttf");
+}
+@font-face {
+    font-family: "Comfortaa_Medium";
+    src: url("../Font/Comfortaa-Medium.ttf") format("ttf");
+}
+@font-face {
+    font-family: "Comfortaa_Regular";
+    src: url("../Font/Comfortaa-Regular.ttf") format("ttf");
+}
+@font-face {
+    font-family: "Comfortaa_SemiBold";
+    src: url("../Font/Comfortaa-SemiBold.ttf") format("ttf");
+}
+
+.text_title {
+    font-size: large;
+    font-family: "Comfortaa_bold", serif;
+}
